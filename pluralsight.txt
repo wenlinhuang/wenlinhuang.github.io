@@ -1,0 +1,21 @@
+REST Fundamentals
+Learning to Build Apps with App Inventor
+C# Generics
+C# Interfaces
+Defensive Coding in C#
+Object-Oriented Programming Fundamentals in C#
+AngularJS: Get Started
+Bootstrap 3
+Introduction to Bootstrap
+Testing AngularJS From Scratch
+Claims-based Identity for Windows: The Big Picture
+Automated Testing for Fraidy Cats Like Me
+Code Contracts
+Design Patterns On-Ramp
+SOLID Principles of Object Oriented Design
+Clean Code: Writing Code for Humans
+WCF Jumpstart
+Windows Azure: The Big Picture
+Introduction to Windows Azure
+
+ 
