@@ -18,4 +18,5 @@ WCF Jumpstart
 Windows Azure: The Big Picture
 Introduction to Windows Azure
 
- 
+Organizing JavaScript Functionality 5h6m
+Basics of Programming with JavaScript 2h40m
