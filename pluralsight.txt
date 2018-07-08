@@ -20,3 +20,4 @@ Introduction to Windows Azure
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
+Website Performance 5h3m
