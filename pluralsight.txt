@@ -22,6 +22,7 @@ Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
 Website Performance 5h3m
 Advanced JavaScript 6h55m
+Coercion in JavaScript 3h18m
 
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
