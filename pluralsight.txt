@@ -28,3 +28,4 @@ HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
 
 Developing with Node.js on Microsoft Azure - Getting Started 4h33m
+Swift 3 Fundamentals 3h47m
