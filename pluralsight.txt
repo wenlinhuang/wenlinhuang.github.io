@@ -18,6 +18,7 @@ WCF Jumpstart
 Windows Azure: The Big Picture
 Introduction to Windows Azure
 
+
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
 Website Performance 5h3m
@@ -25,8 +26,10 @@ Advanced JavaScript 6h55m
 Coercion in JavaScript 3h18m
 Functional-Lite JavaScript 3h9m
 
+
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
+Microservices Architecture 2h24m
 
 Developing with Node.js on Microsoft Azure - Getting Started 4h33m
 Swift 3 Fundamentals 3h47m
