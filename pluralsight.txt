@@ -25,6 +25,7 @@ Website Performance 5h3m
 Advanced JavaScript 6h55m
 Coercion in JavaScript 3h18m
 Functional-Lite JavaScript 3h9m
+Rethinking Asynchronous Programming 6h22m
 
 
 HTTP/2 Fundamentals 2h25m
