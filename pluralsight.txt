@@ -26,6 +26,7 @@ Advanced JavaScript 6h55m
 Coercion in JavaScript 3h18m
 Functional-Lite JavaScript 3h9m
 Rethinking Asynchronous Programming 6h22m
+ES6: The Right Parts 5h18m
 
 
 HTTP/2 Fundamentals 2h25m
