@@ -32,6 +32,11 @@ ES6: The Right Parts 5h18m
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
 Microservices Architecture 2h24m
+Understanding ASP.NET Core 2.x 2h48m
+Understanding ASP.NET Core Security 2h13m
+Building Your First API with ASP.NET Core 4h21m
+Upgrading Your ASP.NET Core 1.x Web API to 2.0 1h17m
+Building a RESTful API with ASP.NET Core 8h10m
 
 Developing with Node.js on Microsoft Azure - Getting Started 4h33m
 Building Web Applications with Node.js and Express 4.0 (UPDATE) 5h12m
