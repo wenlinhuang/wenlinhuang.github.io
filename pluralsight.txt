@@ -28,6 +28,7 @@ Functional-Lite JavaScript 3h9m
 Rethinking Asynchronous Programming 6h22m
 ES6: The Right Parts 5h18m
 Using ES6 with TypeScript 2h15m
+Git Fundamentals 1h51m
 
 
 HTTP/2 Fundamentals 2h25m
