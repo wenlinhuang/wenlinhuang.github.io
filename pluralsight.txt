@@ -40,8 +40,8 @@ Building Your First API with ASP.NET Core 4h21m
 Upgrading Your ASP.NET Core 1.x Web API to 2.0 1h17m
 Building a RESTful API with ASP.NET Core 8h10m
 Getting Started with DAX Formulas in Power BI, Power Pivot, and SSAS 2h58m
-
-Developing with Node.js on Microsoft Azure - Getting Started 4h33m
+Building Business Applications with Angular and ASP.NET Core 4h26m
+ Developing with Node.js on Microsoft Azure - Getting Started 4h33m
 Building Web Applications with Node.js and Express 4.0 (UPDATE) 5h12m
 Swift 3 Fundamentals 3h47m
 Introduction to Node.js 2h48m
