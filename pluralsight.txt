@@ -48,3 +48,5 @@ Introduction to Node.js 2h48m
 CLR Threading 2h37m
 C# Events, Delegates and Lambdas 3h11m
 Introduction to Async and Parallel Programming in .NET 4 2h51m
+Getting Started with Asynchronous Programming in .NET 2h1m
+
