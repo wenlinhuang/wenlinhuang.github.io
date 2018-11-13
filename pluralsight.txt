@@ -30,6 +30,7 @@ ES6: The Right Parts 5h18m
 Using ES6 with TypeScript 2h15m
 Git Fundamentals 1h51m
 Mastering Git 2h42m
+Fundamentals of Building Office Add-ins with Office JavaScript APIs 2h36m
 
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
