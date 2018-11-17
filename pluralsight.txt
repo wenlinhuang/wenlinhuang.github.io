@@ -29,6 +29,7 @@ Rethinking Asynchronous Programming 6h22m
 ES6: The Right Parts 5h18m
 Using ES6 with TypeScript 2h15m
 Git Fundamentals 1h51m
+How Git Works 1h49m
 Mastering Git 2h42m
 Fundamentals of Building Office Add-ins with Office JavaScript APIs 2h36m
 
@@ -39,6 +40,7 @@ Understanding ASP.NET Core 2.x 2h48m
 Understanding ASP.NET Core Security 2h13m
 Building Your First API with ASP.NET Core 4h21m
 Upgrading Your ASP.NET Core 1.x Web API to 2.0 1h17m
+
 Building a RESTful API with ASP.NET Core 8h10m
 Securing ASP.NET Core 2 with OAuth2 and OpenID Connect 3h22m
 Getting Started with DAX Formulas in Power BI, Power Pivot, and SSAS 2h58m
@@ -51,4 +53,5 @@ CLR Threading 2h37m
 C# Events, Delegates and Lambdas 3h11m
 Introduction to Async and Parallel Programming in .NET 4 2h51m
 Getting Started with Asynchronous Programming in .NET 2h1m
-
+Enterprise Patterns: Concurrency in Business Applications 2h54m
+Async and Parallel Programming: Application Design 3h45m
