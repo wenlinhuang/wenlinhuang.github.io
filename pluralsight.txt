@@ -17,7 +17,7 @@ Clean Code: Writing Code for Humans
 WCF Jumpstart
 Windows Azure: The Big Picture
 Introduction to Windows Azure
-
+Microsoft Azure: The Big Picture 1h50m
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
