@@ -43,6 +43,8 @@ Building Your First API with ASP.NET Core 4h21m
 Upgrading Your ASP.NET Core 1.x Web API to 2.0 1h17m
 Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT) 2h23m
 Securing Angular Apps with OpenID Connect and OAuth2 2h30m
+Building Your First ASP.NET Core Web Application 4h53m
+Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017 3h04m
 
 Building a RESTful API with ASP.NET Core 8h10m
 Securing ASP.NET Core 2 with OAuth2 and OpenID Connect 3h22m
