@@ -14,7 +14,7 @@ Code Contracts
 Design Patterns On-Ramp
 SOLID Principles of Object Oriented Design
 Clean Code: Writing Code for Humans
-WCF Jumpstart
+WCF Jumpstart 1h49m
 Windows Azure: The Big Picture
 Introduction to Windows Azure
 Microsoft Azure: The Big Picture 1h50m
