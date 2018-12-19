@@ -48,6 +48,7 @@ Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017 3h0
 
 Building a RESTful API with ASP.NET Core 8h10m
 Securing ASP.NET Core 2 with OAuth2 and OpenID Connect 3h22m
+Securing ASP.NET Core with OAuth2 and OpenID Connect 5h44m
 Getting Started with DAX Formulas in Power BI, Power Pivot, and SSAS 2h58m
 Building Business Applications with Angular and ASP.NET Core 4h26m
 Developing with Node.js on Microsoft Azure - Getting Started 4h33m
