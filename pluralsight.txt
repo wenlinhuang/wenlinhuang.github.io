@@ -37,6 +37,7 @@ Fundamentals of Building Office Add-ins with Office JavaScript APIs 2h36m
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
 Microservices Architecture 2h24m
+Micro Frontends Architecture 1h42m
 Understanding ASP.NET Core 2.x 2h48m
 Understanding ASP.NET Core Security 2h13m
 Building Your First API with ASP.NET Core 4h21m
