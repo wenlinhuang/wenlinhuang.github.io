@@ -34,6 +34,7 @@ How Git Works 1h49m
 Mastering Git 2h42m
 Fundamentals of Building Office Add-ins with Office JavaScript APIs 2h36m
 HTML5 Web Component Fundamentals 5h03m
+A Practical Guide to Vanilla Web Components 2h10m
 
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
