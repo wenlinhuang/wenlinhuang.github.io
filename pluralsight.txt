@@ -66,3 +66,4 @@ Getting Started with Asynchronous Programming in .NET 2h1m
 Enterprise Patterns: Concurrency in Business Applications 2h54m
 Async and Parallel Programming: Application Design 3h45m
 Offline Web Applications (Udacity ud899) 3h00m
+JavaScript Promises (Udacity ud898) 3h00m
