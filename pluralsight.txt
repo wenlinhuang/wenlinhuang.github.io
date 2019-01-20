@@ -38,6 +38,7 @@ A Practical Guide to Vanilla Web Components 2h10m
 Getting Started with Progressive Web Apps 2h12m
 Building Offline Web Apps with Service Worker 2h53m
 Progressive Web App Fundamentals 2h56m
+Building Progressive Web Apps with the App Shell Model 1h45m
 
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
