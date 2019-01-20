@@ -37,6 +37,7 @@ HTML5 Web Component Fundamentals 5h03m
 A Practical Guide to Vanilla Web Components 2h10m
 Getting Started with Progressive Web Apps 2h12m
 Building Offline Web Apps with Service Worker 2h53m
+Progressive Web App Fundamentals 2h56m
 
 HTTP/2 Fundamentals 2h25m
 WebAssembly: The Big Picture 0h42m
