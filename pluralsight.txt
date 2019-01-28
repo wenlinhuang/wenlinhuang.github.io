@@ -71,3 +71,6 @@ Async and Parallel Programming: Application Design 3h45m
 Offline Web Applications (Udacity ud899) 3h00m
 JavaScript Promises (Udacity ud898) 3h00m
 Intro to Progressive Web Apps (Udacity ud811)
+
+Spring: The Big Picture 1h15m
+
