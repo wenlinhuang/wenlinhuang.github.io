@@ -20,6 +20,7 @@ Introduction to Windows Azure
 Microsoft Azure: The Big Picture 1h50m
 Introduction to Azure App Services 2h02m
 Mastering Your Own Domain 1h58
+Serverless Web Applications 2h40m
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
