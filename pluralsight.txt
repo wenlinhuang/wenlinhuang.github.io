@@ -79,6 +79,7 @@ Angular HTTP Communication 2h26m
 Angular Routing 4h48m
 Angular Services 2h28m
 Angular Best Practices 1h41m
+Angular Reactive Forms 3h52m 2019.03.24
 
 Spring: The Big Picture 1h15m
 
