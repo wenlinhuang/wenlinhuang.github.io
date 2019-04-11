@@ -24,6 +24,7 @@ Serverless Web Applications 2h40m
 Writing Process Instructions and Directions 1h28m
 Jira: Getting Started 2h38m 2019.03.27
 Clean Architecture: Patterns, Practices, and Principles 2h21m 2019.04.05
+Architecting Device-Driven Web Solutions 4h00m 2019.04.10
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
