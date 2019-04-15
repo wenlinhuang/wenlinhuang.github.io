@@ -25,6 +25,7 @@ Writing Process Instructions and Directions 1h28m
 Jira: Getting Started 2h38m 2019.03.27
 Clean Architecture: Patterns, Practices, and Principles 2h21m 2019.04.05
 Architecting Device-Driven Web Solutions 4h00m 2019.04.10
+Modern Software Architecture: Domain Models, CQRS, and Event Sourcing 4h25m 2019.04.15
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
