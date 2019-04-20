@@ -28,6 +28,7 @@ Architecting Device-Driven Web Solutions 4h00m 2019.04.10
 Modern Software Architecture: Domain Models, CQRS, and Event Sourcing 4h25m 2019.04.15
 UX-driven Software Design 3 hr30m 2019.04.19
 UI Best Practices Playbook for ASP.NET MVC 2h42m 2019.04.19
+Creating N-Tier Applications in C#, Part 1 2h01m 2019.04.20
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
