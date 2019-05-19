@@ -65,6 +65,7 @@ Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT) 2h23m
 Securing Angular Apps with OpenID Connect and OAuth2 2h30m
 Building Your First ASP.NET Core Web Application 4h53m
 Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017 3h04m
+Play by Play: Visual Studio Live Share 0h36m  2019.05.19
 
 Building a RESTful API with ASP.NET Core 8h10m
 Securing ASP.NET Core 2 with OAuth2 and OpenID Connect 3h22m
