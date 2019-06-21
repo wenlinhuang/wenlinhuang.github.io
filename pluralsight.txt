@@ -97,3 +97,4 @@ RxJS: The Big Picture 1hr02m 2019.06.21
 
 Spring: The Big Picture 1h15m
 State of .NET: Executive Briefing 25m 2019.06.21
+Web Development: Executive Briefing 30m 2019.06.21
