@@ -1,2 +1,8 @@
 What’s New with Chrome and the Web (Google I/O ’19) 2019-06-23
 WebAssembly for Web Developers (Google I/O ’19) 2019-06-25
+What’s new in JavaScript (Google I/O ’19)
+  async {it, gen}erators
+  Promise#finally
+  optional catch binding
+  String#trim{Start, End}
+  object rest & spread
