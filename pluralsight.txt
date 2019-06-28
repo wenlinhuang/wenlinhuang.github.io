@@ -94,6 +94,7 @@ Angular Best Practices 1h41m
 Angular Reactive Forms 3h52m 2019.03.24
 Angular CLI 3h22m 2019.04.01
 RxJS: The Big Picture 1hr02m 2019.06.21
+RxJS: Getting Started 3h04m 2019.06.27
 
 Spring: The Big Picture 1h15m
 State of .NET: Executive Briefing 25m 2019.06.21
