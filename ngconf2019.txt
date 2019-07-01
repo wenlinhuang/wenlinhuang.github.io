@@ -1,3 +1,4 @@
 Day 1 Keynote | Brad Green & Igor Minar
 Mastering the Subject: Communication Options in RxJS | Dan Wahlin
 The Control Value Accessor | Jennifer Wadella
+Building Sub States w/ NgRx Selectors | Brandon Roberts
