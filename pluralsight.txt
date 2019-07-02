@@ -32,6 +32,7 @@ Creating N-Tier Applications in C#, Part 1 2h01m 2019.04.20
 Creating N-Tier Applications in C#, Part 2 1hr40m 2019.04.21
 C# Events, Delegates and Lambdas 3h11m 2019.05.07
 C# Generics 4h20m 2019.05.19
+Introduction to .NET Testing with NUnit 3 2h06m 2019.07.02
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
