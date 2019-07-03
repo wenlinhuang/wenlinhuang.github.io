@@ -4,3 +4,4 @@ The Control Value Accessor | Jennifer Wadella
 Building Sub States w/ NgRx Selectors | Brandon Roberts
 Web Components with Angular Elements: Beyond the Basics | Manfred Steyer
 Angular For Enterprise | Stephen Fluin
+IoT for Introverts | Chloe Condon
