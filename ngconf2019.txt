@@ -11,3 +11,4 @@ Not Every App is a SPA | Rob Wormald
 The Future of Machine Learning & Javascript | Asim Hussain
 Data Composition with RxJS | Deborah Kurata
 What if your dev environment was a PWA? 🤯 | Eric Simons
+Can you imagine a future without zones? | Maxim Koretskyi
