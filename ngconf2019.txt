@@ -9,3 +9,4 @@ These ARE the Angular tips you are looking for | John Papa
 Tools for Fast Angular Applications | Minko Gechev
 Not Every App is a SPA | Rob Wormald
 The Future of Machine Learning & Javascript | Asim Hussain
+Data Composition with RxJS | Deborah Kurata
