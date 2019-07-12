@@ -14,3 +14,4 @@ What if your dev environment was a PWA? 🤯 | Eric Simons
 Can you imagine a future without zones? | Maxim Koretskyi
 RxJS Schedulers form outer space – performance, animations, asynchrony | Michael Hladky
 Productivity Revolution: Angular Principles in Node | Kamil Mysliwiec
+ng Generate Universal, Now What? | James Daniels
