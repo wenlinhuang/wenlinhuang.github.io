@@ -15,3 +15,4 @@ Can you imagine a future without zones? | Maxim Koretskyi
 RxJS Schedulers form outer space – performance, animations, asynchrony | Michael Hladky
 Productivity Revolution: Angular Principles in Node | Kamil Mysliwiec
 ng Generate Universal, Now What? | James Daniels
+Use decorator to beat ngOnChanges – Decoupling ngOnChanges _ Kern Zhao
