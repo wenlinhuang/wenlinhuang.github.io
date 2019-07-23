@@ -1,0 +1,29 @@
+Before we meet, please think about:
+*your achievements this past year you would like to share
+	in the mean time work on training manager, dashboard and calendar
+	create a VisualStudio Extension replace old VS2015 extension help team move to VS20019, minify css file with map.
+	create domain model and service layer, webapi in the same project. 
+	
+*any challenges you have had
+	vs2019 extension need to handle legacy sass converter(ruby based) file and latest sass conveter.
+	IOC DI in the webform and service layer.
+	nothing in company culture, intigrate.
+	
+*any suggestions for improvement to vi as a company (roadblocks inhibiting you, process improvements, etc. - anything) 
+	90 minutes of software testing every Thursday from 10-11:30AM
+	need testing project in our solution, write more unit tests and integration tests, should depends on computer not people.
+	simplify backend pages with advanced function page.
+	
+*any learning and development goals you have in the 2019/2020 year 
+	base on company 2019/2020 goal, 38% gross, will set personal goal on business side, testing, logging, entity-framework.
+	learning business start with lms, eval.
+	Azure related
+
+April: Training manager page new design css,
+May: Training Manager and VS2019 SassConverter Extension
+June: Dashboard and Domain model with Service Layer, WebAPI project, IoC DI
+July: calendar
+
+after LMS Eval is the next
+
+one product different client use it different way.
