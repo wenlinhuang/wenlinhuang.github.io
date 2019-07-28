@@ -71,6 +71,7 @@ Play by Play: Visual Studio Live Share 0h36m  2019.05.19
 LINQ Architecture 1hr23m 2019.05.20
 Beginning C# Collections 3hr26m 2019.07.14
 C# Interfaces 2h23m 2019.07.18
+C# Collections Fundamentals 5h56m 2019.07.28
 
 Building a RESTful API with ASP.NET Core 8h10m
 Securing ASP.NET Core 2 with OAuth2 and OpenID Connect 3h22m
