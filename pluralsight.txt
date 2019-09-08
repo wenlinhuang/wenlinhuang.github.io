@@ -110,4 +110,4 @@ State of .NET: Executive Briefing 25m 2019.06.21
 Web Development: Executive Briefing 30m 2019.06.21
 Android Apps with Kotlin: Build Your First App 4h15m 2019.08.09
 Understanding Android Application Basics 4h15m 2019.09.05
-Working with Android Tools and Testing
+Working with Android Tools and Testing 2h54m 2019.09.08
