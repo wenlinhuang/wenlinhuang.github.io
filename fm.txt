@@ -1,5 +1,6 @@
-Webpack 4 Fundamentals 2020.02.20
-Web Performance with Webpack 2020.02.15
+Webpack 4 Fundamentals 2020.02.15
+Complete Intro to Containers 2020.02.20
+Web Performance with Webpack 2020.02.25
 Complete Intro to Containers 2020.03.01
 Building Your Own Programming Language 2020.03.10
 Introduction to the JAMStack 2020.03.20
