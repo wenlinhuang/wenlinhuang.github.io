@@ -38,6 +38,7 @@ Testing .NET Code in Visual Studio 2h52m 2019.07.31
 Improving Testability Through Design 4h36m 2019.08.08
 Architecting Applications for the Real World in .NET 2h52m 2019.08.10
 Tactical Design Patterns in .NET: Control Flow 4h40m 2019.08.20
+Functional Programming with C# 1h25m 2020.04.05
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
