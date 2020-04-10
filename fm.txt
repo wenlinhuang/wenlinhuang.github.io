@@ -5,3 +5,4 @@ Complete Intro to Containers 2020.03.01
 Building Your Own Programming Language 2020.03.10
 Introduction to the JAMStack 2020.03.20
 Full Stack for Front-End Engineers, v2 2020.03.30
+JavaScript: The Hard Parts, v2 2020.04.10
