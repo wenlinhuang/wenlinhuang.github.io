@@ -43,6 +43,7 @@ Git Back to Basics: CodeMash 0h49m 2020.04.05
 Advanced Git Techniques: 1h21m 2020.04.15
 Git Administration 1h19m 2020.04.15
 Functional Programming- The Big Picture 1h12m 2020.05.14
+Practical Functional Programming- CodeMash 0h59m 2020.05.15
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
