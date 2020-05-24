@@ -44,6 +44,7 @@ Advanced Git Techniques: 1h21m 2020.04.15
 Git Administration 1h19m 2020.04.15
 Functional Programming- The Big Picture 1h12m 2020.05.14
 Practical Functional Programming- CodeMash 0h59m 2020.05.15
+Applying Functional Principles in C# 3h28m 2020.05.24
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
