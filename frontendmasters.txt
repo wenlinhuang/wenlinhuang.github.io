@@ -8,3 +8,4 @@ Full Stack for Front-End Engineers, v2 2020.03.30
 JavaScript: The Hard Parts, v2 2020.04.10
 JavaScript: The New Hard Parts 2020.04.15
 Hard Parts: Functional JS Foundations 2020.04.21
+Angular 9 Fundamentals 2020.10.04
