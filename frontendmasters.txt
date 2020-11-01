@@ -10,3 +10,5 @@ JavaScript: The New Hard Parts 2020.04.15
 Hard Parts: Functional JS Foundations 2020.04.21
 Angular 9 Fundamentals 2020.10.04
 Angular Core 2020.10.11
+Reactive Angular with NgRx 2020.11.01
+
