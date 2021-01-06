@@ -48,7 +48,7 @@ Applying Functional Principles in C# 3h28m 2020.05.24
 Functional Programming with C# 1h25m 2020.06.3
 ASP.NET Identity 2 Fundamentals 2h27m 2020.09.03
 Developing JavaScript Single Page Applications Protected by Azure Active Directory 1h14m 2021.01.02
-
+RxJS in Angular Reactive Development 3h48m 2021.01.05
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
