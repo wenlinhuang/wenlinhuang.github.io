@@ -134,3 +134,4 @@ Geospatial Mapping with D3_ben sullins 2021-10-14
 Geospatial_Mapping_with_D3_Soham_Kamani 2021-10-14
 Raspberry Pi for Developers 2021-10-15
 The World of Geospatial Solutions 2021-10-15
+Web Mapping with OpenLayers 2021-10-14
