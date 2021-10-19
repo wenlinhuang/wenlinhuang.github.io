@@ -136,3 +136,4 @@ Raspberry Pi for Developers 2021-10-15
 The World of Geospatial Solutions 2021-10-15
 Web Mapping with OpenLayers 2021-10-14
 Advanced Debugging with Visual Studio 2019 2021-10-18
+Visual Studio 2019 Debugging 2021-10-19
