@@ -1,3 +1,4 @@
+Observer Pattern 2021-11-11
 Iterator Pattern 2021-11-10
 Workshop Learn NgRx Part 3 2021-10-29
 Workshop Learn NgRx Part 2 2021-10-27
