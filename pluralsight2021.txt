@@ -1,4 +1,5 @@
-Workshop Reactive Angular Part 3 2021-12-04
+Workshop Develop at Scale with Nx Monorepos 1 2021-12-05
+Workshop Reactive Angular Part 3  2021-12-04
 Workshop Reactive Angular Part 2 2021-12-04
 Workshop Reactive Angular Part 1 2021-12-02
 Workshop Advanced RxJS Part 3 2021-12-01
