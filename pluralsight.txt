@@ -138,3 +138,4 @@ Web Mapping with OpenLayers 2021-10-14
 Advanced Debugging with Visual Studio 2019 2021-10-18
 Visual Studio 2019 Debugging 2021-10-19
 Getting Started with SAML 2.0 2021-10-21
+Data Science: The Big Picture 2022-05-02
