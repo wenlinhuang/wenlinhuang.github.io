@@ -46,6 +46,9 @@ Functional Programming- The Big Picture 1h12m 2020.05.14
 Practical Functional Programming- CodeMash 0h59m 2020.05.15
 Applying Functional Principles in C# 3h28m 2020.05.24
 Functional Programming with C# 1h25m 2020.06.3
+ASP.NET Identity 2 Fundamentals 2h27m 2020.09.03
+Developing JavaScript Single Page Applications Protected by Azure Active Directory 1h14m 2021.01.02
+RxJS in Angular Reactive Development 3h48m 2021.01.05
 
 Organizing JavaScript Functionality 5h6m
 Basics of Programming with JavaScript 2h40m
@@ -124,3 +127,15 @@ Working with Android Tools and Testing 2h54m 2019.09.08
 
 udemy
 React - The Complete Guide (incl Hooks, React Router, Redux) 2020.01.17
+
+C# Interfaces 2021-10-16
+Creating Geospatial Maps with MapServer and GDAL 2021-10-15
+Geospatial Mapping with D3_ben sullins 2021-10-14
+Geospatial_Mapping_with_D3_Soham_Kamani 2021-10-14
+Raspberry Pi for Developers 2021-10-15
+The World of Geospatial Solutions 2021-10-15
+Web Mapping with OpenLayers 2021-10-14
+Advanced Debugging with Visual Studio 2019 2021-10-18
+Visual Studio 2019 Debugging 2021-10-19
+Getting Started with SAML 2.0 2021-10-21
+Data Science: The Big Picture 2022-05-02
